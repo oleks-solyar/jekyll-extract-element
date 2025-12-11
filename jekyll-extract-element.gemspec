@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
     "http://rubygems.org/gems/jekyll-extract-element"
   s.license = "MIT"
 
-  s.add_dependency "jekyll", ">= 3.0"
+  s.add_dependency "jekyll", ">= 3.3", "< 5.0"
   s.add_dependency "nokogiri", ">= 1.11.4"
 
   s.add_development_dependency "bundler", "~> 2.1"
