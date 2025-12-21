@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.name        = "jekyll-extract-element"
   s.version     = "0.0.8"
-  s.date        = "2017-02-02"
+  s.date        = "2025-09-21"
   s.summary     = "Extracts a particular element from HTML content"
   s.description = ""
   s.authors     = ["Mike Neumegen"]
